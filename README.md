@@ -1,4 +1,4 @@
-📝 # Pesquisa de Opinião - TudoWeb
+📝 Pesquisa de Opinião - TudoWeb
 Este projeto foi desenvolvido para a empresa TudoWeb Marketing com o objetivo de realizar uma pesquisa de satisfação sobre o atendimento prestado aos clientes.
 O programa coleta informações de cada entrevistado e gera um relatório final com os resultados da pesquisa.
 
