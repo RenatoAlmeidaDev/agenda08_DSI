@@ -32,18 +32,28 @@ Linguagem: Python 3
 
 # 📊 Exemplo de uso
 Durante a execução, o programa solicita os dados de cada entrevistado:
+
 Entrevistado 1:
 Digite o nome: Ana
+
 Digite a idade: 25
+
 Opinião sobre o atendimento:
+
 1 - EXCELENTE
+
 2 - BOM
+
 3 - RUIM
+
 Digite sua opinião (1/2/3): 1
 
 Após todos os entrevistados responderem, o programa mostra o resultado final:
+
 RESULTADOS DA PESQUISA
+
 Quantidade de respostas EXCELENTE: 6
+
 Quantidade de respostas RUIM: 2
 
 # 🎯 Como testar
