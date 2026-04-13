@@ -21,16 +21,16 @@ Quantidade de respostas EXCELENTE
 
 Quantidade de respostas RUIM
 
-🛠️ # Tecnologias utilizadas
+# 🛠️ Tecnologias utilizadas
 Linguagem: Python 3
 
 # Estruturas:
 
-for → repetição para percorrer todos os entrevistados
+ - for → repetição para percorrer todos os entrevistados
 
-if/elif → decisão para contabilizar as respostas.
+ - if/elif → decisão para contabilizar as respostas.
 
-📊 # Exemplo de uso
+# 📊 Exemplo de uso
 Durante a execução, o programa solicita os dados de cada entrevistado:
 Entrevistado 1:
 Digite o nome: Ana
@@ -46,7 +46,7 @@ RESULTADOS DA PESQUISA
 Quantidade de respostas EXCELENTE: 6
 Quantidade de respostas RUIM: 2
 
-🎯 # Como testar
+# 🎯 Como testar
  - Para testes rápidos, configure num_entrevistados = 10.
 
  - Para a pesquisa oficial, configure num_entrevistados = 50.
